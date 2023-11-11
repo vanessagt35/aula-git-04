@@ -5,3 +5,12 @@
 h1 {
   color: blueviolet;
 }
+
+footer p {
+ text-align: center;
+ color: blueviolet;
+ font-weight: 900;
+ text-transform: uppercase;
+ font-size: 10px;
+
+}
